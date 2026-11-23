@@ -1,0 +1,95 @@
+[
+  {
+    "id": 859942,
+    "slug": "tab-session-manager",
+    "name": "Tab Session Manager",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/",
+    "summary": "Save and restore the state of windows and tabs. It also supports automatic saving and cloud sync.",
+    "dailyUsers": 169957,
+    "weeklyDownloads": 1679,
+    "rating": 4.16,
+    "ratingsCount": 1248,
+    "reviewsCount": 577,
+    "categories": [
+      "appearance",
+      "tabs"
+    ],
+    "tags": [],
+    "version": "7.4.0",
+    "created": "2017-10-02T16:16:55Z",
+    "lastUpdated": "2026-07-17T16:56:00Z",
+    "recommended": true,
+    "androidSupport": false,
+    "developers": [
+      "sienori"
+    ],
+    "developerUrl": "https://addons.mozilla.org/en-US/firefox/user/13310420/",
+    "homepage": "https://tab-session-manager.sienori.com/",
+    "supportEmail": "s*****@gmail.com",
+    "supportUrl": "https://github.com/sienori/Tab-Session-Manager",
+    "iconUrl": "https://addons.mozilla.org/user-media/addon_icons/859/859942-64.png?modified=67bc175d",
+    "source": "search: tab manager"
+  },
+  {
+    "id": 964372,
+    "slug": "tabby-window-tab-manager",
+    "name": "Tabby - Window & Tab Manager",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/tabby-window-tab-manager/",
+    "summary": "Tabby helps you manage a lot of windows and tabs easily; it can help you open, close, move, pin, and do many other things on tabs and windows quickly. With Tabby, you can even save all you windows and tabs for later with just one click!",
+    "dailyUsers": 12742,
+    "weeklyDownloads": 114,
+    "rating": 4.19,
+    "ratingsCount": 218,
+    "reviewsCount": 89,
+    "categories": [
+      "search-tools",
+      "tabs"
+    ],
+    "tags": [],
+    "version": "3.2.1",
+    "created": "2018-04-14T07:44:42Z",
+    "lastUpdated": "2024-09-24T14:46:31Z",
+    "recommended": true,
+    "androidSupport": false,
+    "developers": [
+      "BillK"
+    ],
+    "developerUrl": "https://addons.mozilla.org/en-US/firefox/user/13953482/",
+    "homepage": "https://github.com/Bill13579/tabby",
+    "supportEmail": "b*****@gmail.com",
+    "supportUrl": "https://github.com/Bill13579/tabby",
+    "iconUrl": "https://addons.mozilla.org/user-media/addon_icons/964/964372-64.png?modified=39db5f39",
+    "source": "search: tab manager"
+  },
+  {
+    "id": 855052,
+    "slug": "tab_manager",
+    "name": "Tab manager",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/tab_manager/",
+    "summary": "Allows basic operations on open tabs, such as copying the URLs to the clipboard, saving the tab list to a file, and reloading saved tabs from a pasted list or from a text file.",
+    "dailyUsers": 186,
+    "weeklyDownloads": 3,
+    "rating": 4.15,
+    "ratingsCount": 20,
+    "reviewsCount": 14,
+    "categories": [
+      "appearance",
+      "tabs"
+    ],
+    "tags": [],
+    "version": "0.22resigned1",
+    "created": "2017-09-18T00:19:55Z",
+    "lastUpdated": "2024-04-25T20:16:56Z",
+    "recommended": false,
+    "androidSupport": false,
+    "developers": [
+      "Ale"
+    ],
+    "developerUrl": "https://addons.mozilla.org/en-US/firefox/user/5081002/",
+    "homepage": null,
+    "supportEmail": null,
+    "supportUrl": null,
+    "iconUrl": "https://addons.mozilla.org/user-media/addon_icons/855/855052-64.png?modified=1552998594",
+    "source": "search: tab manager"
+  }
+]
