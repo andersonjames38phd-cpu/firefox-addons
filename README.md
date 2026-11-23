@@ -44,15 +44,20 @@ In one test, the search "tab manager" returned 4,558 matches, and the top 5 came
   "rating": 4.16,
   "ratingsCount": 1248,
   "reviewsCount": 577,
-  "categories": ["appearance", "tabs"],
+  "categories": [
+    "appearance",
+    "tabs"
+  ],
   "version": "7.4.0",
   "created": "2017-10-02T16:16:55Z",
   "lastUpdated": "2026-07-17T16:56:00Z",
   "recommended": true,
-  "developers": ["sienori"],
+  "developers": [
+    "sienori"
+  ],
   "homepage": "https://tab-session-manager.sienori.com/",
-  "supportEmail": "s*****@sienori.com",
-  "supportUrl": null
+  "supportEmail": "s*****@gmail.com",
+  "supportUrl": "https://github.com/sienori/Tab-Session-Manager"
 }
 ```
 
